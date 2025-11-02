@@ -146,9 +146,9 @@ header p {
   padding: 6px 14px;
   border-radius: 8px;
   margin-top: 16px;
-  color: #e5e7eb; 
- 
-  border-color: #e5e7eb;
+  color: #e5e7eb;
+
+  border: 2px solid #e5e7eb;
 }
 
 .call .cta1 {
@@ -156,9 +156,9 @@ header p {
   flex-direction: column;
 }
 
-footer{
-    text-align: center;
-    padding: 32px;
-    background-color: #1f2937;
-    color: #e5e7eb;
+footer {
+  text-align: center;
+  padding: 32px;
+  background-color: #1f2937;
+  color: #e5e7eb;
 }
