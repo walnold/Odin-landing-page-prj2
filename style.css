@@ -82,3 +82,34 @@ header p {
   height: 300px;
   width: 400px;
 }
+
+.random{
+    margin-top: 32px;
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.random h2{
+    margin-bottom: 16px;
+}
+
+.random .boxes{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+
+}
+.boxes .box{
+    width: 150px;
+
+}
+
+.boxes .box img{
+    border:2px solid #3882f6;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+.boxes .box p{
+
+}
