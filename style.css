@@ -110,6 +110,22 @@ header p {
     height: 150px;
     border-radius: 10px;
 }
-.boxes .box p{
 
+
+.quotes{
+    background-color: #e5e7eb;
+    padding:52px;
+    
+}
+
+.quotes p{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+}
+
+.quotes .author{
+    display: block;
+    text-align: right;
+    font-weight: 800;
 }
